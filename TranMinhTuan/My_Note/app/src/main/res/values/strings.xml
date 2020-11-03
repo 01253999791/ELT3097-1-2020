@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My_Note</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_details">Details</string>
+    <string name="nh_p_ti_u">Nhập tiêu đề</string>
+    <string name="nh_p_n_i_dung">Nhập nội dung</string>
+</resources>
